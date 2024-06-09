@@ -1,7 +1,7 @@
 
 # Python for Data Analysis and Visualisation
 
-Sharing Python, Matplotlib and Seaborn Exercises!
+Sharing Python, Numpy, Pandas, Matplotlib and Seaborn Exercises!
 
 I created notes with Python and Python's libraries like Matplotlib and Seaborn. I wanted to share these exercises to contribute to those who wish to progress in Python.
 
