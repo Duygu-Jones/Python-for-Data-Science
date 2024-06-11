@@ -27,7 +27,7 @@ This repository contains comprehensive notes and practical exercises for various
 
 ## Overview
 
-The aim of this repository is to provide a detailed and practical guide to using Python libraries for data analysis and visualization. It covers a range of libraries, including pandas, numpy, matplotlib, seaborn, and more.
+This repository aims to provide a detailed and practical guide to using Python libraries for data analysis and visualization. It covers a range of libraries, including pandas, numpy, matplotlib, seaborn, and more.
 
 ## Contents
 
@@ -61,14 +61,30 @@ Contributions are welcome! If you have any additional notes, notebooks, or impro
 
 ## About Me
 
-Hi, I'm Duygu Jones, a Data Scientist passionate about data analysis and visualization. This repository is a compilation of my notes and exercises on using Python for data science. You can find more about me and my work through the following links:
+I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis and machine learning. <br>
+
+You can find more about me and my work through the following links:
 
 - **Website**: [duygujones.vercel.app](https://duygujones.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
+- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
-Feel free to connect with me!
+Feel free to connect with me!<br>
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+🎯Boost your exploratory data analysis skills,<br> 
+💡Share your insights with the community, <br>
+👩‍💻Become a data wizard! <br>
+✨If you find this repository helpful, don't forget to give it a star✨.<br>
+
+Code with joy!👩‍💻✨
+
+---
+
+
+##### License
+
+##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
