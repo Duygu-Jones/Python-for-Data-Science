@@ -42,8 +42,7 @@ This repository aims to provide a detailed and practical guide to using Python l
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/python-for-data-analysis-and-visualisation.git
-    cd python-for-data-analysis-and-visualisation
+    git clone https://github.com/Duygu-Jones/Python-for-Data-Analysis-and-Visualisation.git
     ```
 2. Browse the folders to find the relevant notes, master notebooks, and hands-on practices.
 3. Follow the instructions within each file to enhance your skills in data analysis and visualization using Python.
