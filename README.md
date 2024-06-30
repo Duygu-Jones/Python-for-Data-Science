@@ -47,49 +47,39 @@ This repository aims to provide a detailed and practical guide to using Python l
 2. Browse the folders to find the relevant notes, master notebooks, and hands-on practices.
 3. Follow the instructions within each file to enhance your skills in data analysis and visualization using Python.
 
-## Contributing
+## 🤝Contributing
 
-Contributions are welcome! If you have any additional notes, notebooks, or improvements to share, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new content'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
+Contributions are welcome! If you have any improvements, suggestions, or additional information to share, please fork the repository and create a pull request.
 
 <br>
 
-## 🌱 About Me 
+## 🌱About Me 
 
 I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
+♻️ You can find more about me and my work through the following links:
 
-📢I announce and share all my projects first on [**my LinkedIn profile**](https://www.linkedin.com/in/duygujones/). If you would like to stay updated on my latest projects♻️💫 
-
-🌐Feel free to connect with me!
-
-
-🚀🎯You can find more about me and my work through the following links:
-
-- **My Portfolio Website**: [duygujones.portfolio](https://duygujones.vercel.app/)
+- **Linedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Website**: [duygujones.com](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
 - **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
 - **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
+🌐Feel free to connect with me!
+
 <br>
 
 🎯 Boost your exploratory data analysis skills,<br>
 💡 Share your insights with the community,<br>
-👩‍💻 Become a data wizard!<br>
-✨✨ If you find this repository helpful, don't forget to give it a ⭐ star.<br>
+✨ If you find this repository helpful, don't forget to give it a ⭐ star.<br>
 
 Code with joy! 👩‍💻✨
 
 ---
 
 
-##### License
+
+##### 📜 License
 
 ##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
