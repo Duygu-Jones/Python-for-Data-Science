@@ -59,7 +59,7 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
+- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
 - **Website**: [duygujones.com](https://duygujones.vercel.app/)
 - **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
 - **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
