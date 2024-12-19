@@ -1,0 +1,38 @@
+Python'da en çok kullanılan veri yapıları ve metodları şunlardır:
+(Lists):
+        append(): Listenin sonuna bir öğe ekler.
+        extend(): Bir listenin sonuna başka bir listenin tüm öğelerini ekler.
+        insert(): Belirtilen konuma bir öğe ekler.
+        remove(): Belirtilen değere sahip ilk öğeyi listeden kaldırır.
+        pop(): Belirtilen indeksteki öğeyi kaldırır ve geri döndürür.
+        index(): Belirtilen değerin indeksini döndürür.
+        count(): Belirtilen değerin listede kaç kez bulunduğunu sayar.
+        sort(): Listeyi sıralar.
+        reverse(): Listeyi tersine çevirir.
+        
+(Tuples):
+        index(): Belirtilen değerin indeksini döndürür.
+        count(): Belirtilen değerin demette kaç kez bulunduğunu sayar.
+
+(Dictionaries):
+        keys(): Sözlükteki tüm anahtarları döndürür.
+        values(): Sözlükteki tüm değerleri döndürür.
+        items(): Sözlükteki tüm çiftleri (anahtar-değer) döndürür.
+        get(): Belirtilen anahtara karşılık gelen değeri döndürür.
+        update(): Bir sözlüğü başka bir sözlükle günceller.
+
+(Sets):
+        add(): Bir öğeyi kümeye ekler.
+        remove(): Belirtilen öğeyi kümeden kaldırır.
+        discard(): Belirtilen öğeyi kümeden kaldırır (eğer öğe yoksa hata vermez).
+        pop(): Bir öğeyi kümeden kaldırır ve döndürür.
+        clear(): Kümedeki tüm öğeleri kaldırır.
+
+(Strings):
+        split(): Diziyi belirli bir ayraç kullanarak parçalara böler.
+        join(): Bir liste veya demetin öğelerini bir dizeye birleştirir.
+        strip(): Dizenin başındaki ve sonundaki boşlukları kaldırır.
+        upper(), lower(): Diziyi büyük veya küçük harfe dönüştürür.
+        replace(): Belirli bir alt dizenin tüm örneklerini başka bir alt dize ile değiştirir.
+
+        
